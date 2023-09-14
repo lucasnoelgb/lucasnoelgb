@@ -1,6 +1,6 @@
 <div align="center"> 
 
-## 👾Olá eu sou Lucas Noel  👾!
+## 👾Olá eu sou Lucas Noel  !
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnoelgb&show_icons=true&theme=radical)
