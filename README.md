@@ -2,7 +2,8 @@
 
 ## 👾Olá eu sou Lucas Noel  👾!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnoelgb)](https://github.com/lucasnoelgb/github-readme-stats)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnoelgb&show_icons=true&theme=radical)
 </div>  
 
 <div style="display: inline_block" align="center"><br>
