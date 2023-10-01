@@ -5,6 +5,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnoelgb&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnoelgb&show_icons=true&theme=radical)](https://github.com/lucasnoelgb/github-readme-stats)
+
+
 </div>  
 
 <h3>💻 &nbsp;Front-end:</h3>
