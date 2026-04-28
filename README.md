@@ -4,7 +4,8 @@
 
 ### Desenvolvedor em Formação | Engenharia de Software
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007BB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassz_noel)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007BB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-noel-038577289)
+
 
 </div>
 
