@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header&text=Ol%C3%A1%20eu%20sou%20Lucas%20Noel%20%F0%9F%91%8B&fontSize=40&fontColor=70a5fd&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Lucas%20Noel%20%F0%9F%91%8B&fontSize=40&fontColor=70a5fd&fontAlignY=65&animation=fadeIn"/>
 
 ### Desenvolvedor em Formação | Engenharia de Software
 
