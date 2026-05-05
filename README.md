@@ -3,11 +3,11 @@
 
 <!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Noel+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=32&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Noel+%F0%9F%91%8B"/>
 </div>
 
 <div align="center">
-  <sub><b>Programador em Formação | Engenharia de Software</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=16&pause=100000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Programador+em+Forma%C3%A7%C3%A3o+%7C+Engenharia+de+Software"/>
 </div>
 
 <br/>
