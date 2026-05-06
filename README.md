@@ -69,7 +69,7 @@ Tenho 19 anos e sou apaixonado por tecnologia desde cedo. Comecei com o técnico
 
 ---
 
-## 📜 Gráfico de Contribuições
+##  Gráfico de Contribuições
 
 <div align="center">
 
