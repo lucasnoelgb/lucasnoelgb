@@ -31,7 +31,7 @@
 
 > *"Quanto mais desafiador, melhor."*
 
-Tenho 19 anos e sou apaixonado por tecnologia desde cedo. Comecei com o técnico em **Programação de Jogos Digitais** pelo MTEC, onde dei meus primeiros passos no desenvolvimento. Hoje curso **Engenharia de Software**, aprofundando cada vez mais meu conhecimento sempre movido pela curiosidade de entender como as coisas funcionam e encontrar soluções.
+Tenho 20 anos e sou apaixonado por tecnologia desde cedo. Comecei com o técnico em **Programação de Jogos Digitais** pelo MTEC, onde dei meus primeiros passos no desenvolvimento. Hoje curso **Engenharia de Software**, aprofundando cada vez mais meu conhecimento sempre movido pela curiosidade de entender como as coisas funcionam e encontrar soluções.
 
 ---
 
